@@ -1,0 +1,14 @@
+__pycache__
+.DS_Store
+.env
+.history
+.hypothesis/
+node_modules
+notebooks/data_pipelines/
+notebooks/research/*.hdf
+*.ipynb_checkpoints/
+build/
+reports/
+*.log
+dump.rdb
+backtest_output/
